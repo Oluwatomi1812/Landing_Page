@@ -274,7 +274,13 @@ details > summary {
 #accordion{
     cursor: pointer;
     margin-bottom: 15px;
-    margin-left: 15%;
+   
+}
+.faq_container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 .x{
     float: right;
