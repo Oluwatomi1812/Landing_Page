@@ -85,6 +85,7 @@ input[type="email"]{
 .grid2_text{
     display: table-cell;
     vertical-align: middle;
+    padding-left: 70px;
 }
 .netflix_gif{
     display: table-cell;
