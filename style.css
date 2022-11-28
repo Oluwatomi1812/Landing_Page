@@ -83,6 +83,7 @@ input[type="email"]{
 /*Grid 2*/
 .section2{
     background-color: black;
+    max-height: 75vh;
     height: 75vh;
     border-bottom: 10px rgb(34,34,34) solid;   
 }
