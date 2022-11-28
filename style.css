@@ -1,4 +1,4 @@
-/*TRYING A DIFFERENT APPROACH*/
+/*TRYING A DIFFERENT*/
 .netflix_page{
     max-width: 100vw;
     padding: 0;
@@ -85,7 +85,7 @@ input[type="email"]{
     display: flex;
     justify-content: space-around;
     background-color: black;
-    height: 60vh; 
+    height: 80vh; 
     border-bottom: 10px rgb(34,34,34) solid;   
 }
 .grid2_text{
@@ -131,7 +131,6 @@ input[type="email"]{
 }
 .stranger-things{
     display: table-cell;
-    padding: 60px 5px;
     z-index: 1;
 }
 .animation_card{
@@ -140,7 +139,6 @@ input[type="email"]{
     border-radius: 10px;
     display: flex;
     flex-direction: row;
-    padding: 5px 30px;
     position: relative;
     left: 120px;
    bottom: 150px;    
