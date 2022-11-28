@@ -81,12 +81,16 @@ input[type="email"]{
     font-weight: 100;
 }
 /*Grid 2*/
+.section2{
+    background-color: black;
+    height: 75vh;
+    border-bottom: 10px rgb(34,34,34) solid;   
+}
 .grid2{
     display: flex;
+    align-self: center;
     justify-content: space-around;
-    background-color: black;
-    height: 80vh; 
-    border-bottom: 10px rgb(34,34,34) solid;   
+    gap: 300px;
 }
 .grid2_text{
     display: flex;
@@ -95,9 +99,9 @@ input[type="email"]{
     
 }
 .netflix_gif{
-    display: flex;
+    align-content: center;
     position: relative;
-    right: 400px;
+    right: 35%;
 }
 .grid2_heading1{
     font-size: 60px;
